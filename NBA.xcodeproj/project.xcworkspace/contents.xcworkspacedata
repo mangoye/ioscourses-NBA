@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:1-Starwars.xcodeproj">
+      location = "self:/Users/mangoye/Desktop/iOS App Dev/Exemples-cours/1-Starwars/NBA.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAA7F8E51C3C48E300635EB2"
-               BuildableName = "1-Starwars.app"
-               BlueprintName = "1-Starwars"
-               ReferencedContainer = "container:1-Starwars.xcodeproj">
+               BuildableName = "NBA.app"
+               BlueprintName = "NBA"
+               ReferencedContainer = "container:NBA.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAA7F8E51C3C48E300635EB2"
-            BuildableName = "1-Starwars.app"
-            BlueprintName = "1-Starwars"
-            ReferencedContainer = "container:1-Starwars.xcodeproj">
+            BuildableName = "NBA.app"
+            BlueprintName = "NBA"
+            ReferencedContainer = "container:NBA.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAA7F8E51C3C48E300635EB2"
-            BuildableName = "1-Starwars.app"
-            BlueprintName = "1-Starwars"
-            ReferencedContainer = "container:1-Starwars.xcodeproj">
+            BuildableName = "NBA.app"
+            BlueprintName = "NBA"
+            ReferencedContainer = "container:NBA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAA7F8E51C3C48E300635EB2"
-            BuildableName = "1-Starwars.app"
-            BlueprintName = "1-Starwars"
-            ReferencedContainer = "container:1-Starwars.xcodeproj">
+            BuildableName = "NBA.app"
+            BlueprintName = "NBA"
+            ReferencedContainer = "container:NBA.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

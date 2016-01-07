@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EAA7F8E61C3C48E300635EB2 /* 1-Starwars.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "1-Starwars.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAA7F8E61C3C48E300635EB2 /* NBA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NBA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAA7F8E91C3C48E300635EB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAA7F8EB1C3C48E300635EB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EAA7F8EE1C3C48E300635EB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		EAA7F8E71C3C48E300635EB2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAA7F8E61C3C48E300635EB2 /* 1-Starwars.app */,
+				EAA7F8E61C3C48E300635EB2 /* NBA.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAA7F8E51C3C48E300635EB2 /* 1-Starwars */ = {
+		EAA7F8E51C3C48E300635EB2 /* NBA */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAA7F8F81C3C48E300635EB2 /* Build configuration list for PBXNativeTarget "1-Starwars" */;
+			buildConfigurationList = EAA7F8F81C3C48E300635EB2 /* Build configuration list for PBXNativeTarget "NBA" */;
 			buildPhases = (
 				EAA7F8E21C3C48E300635EB2 /* Sources */,
 				EAA7F8E31C3C48E300635EB2 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "1-Starwars";
+			name = NBA;
 			productName = "1-Starwars";
-			productReference = EAA7F8E61C3C48E300635EB2 /* 1-Starwars.app */;
+			productReference = EAA7F8E61C3C48E300635EB2 /* NBA.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAA7F8E11C3C48E300635EB2 /* Build configuration list for PBXProject "1-Starwars" */;
+			buildConfigurationList = EAA7F8E11C3C48E300635EB2 /* Build configuration list for PBXProject "NBA" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAA7F8E51C3C48E300635EB2 /* 1-Starwars */,
+				EAA7F8E51C3C48E300635EB2 /* NBA */,
 			);
 		};
 /* End PBXProject section */
@@ -248,10 +248,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "1-Starwars/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mangoye.--Starwars";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = NBA;
 			};
 			name = Debug;
 		};
@@ -259,17 +260,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "1-Starwars/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mangoye.--Starwars";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = NBA;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAA7F8E11C3C48E300635EB2 /* Build configuration list for PBXProject "1-Starwars" */ = {
+		EAA7F8E11C3C48E300635EB2 /* Build configuration list for PBXProject "NBA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAA7F8F61C3C48E300635EB2 /* Debug */,
@@ -278,7 +280,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAA7F8F81C3C48E300635EB2 /* Build configuration list for PBXNativeTarget "1-Starwars" */ = {
+		EAA7F8F81C3C48E300635EB2 /* Build configuration list for PBXNativeTarget "NBA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAA7F8F91C3C48E300635EB2 /* Debug */,
